@@ -40,15 +40,18 @@ THEN I am given an error message
 
 The following image shows a mock-up of the restaurant menu and ordering system:
 
-IMAGE 1 GOES HERE
+![Terminal Menu Display](https://github.com/alexis-menendez/Module-21-Python-Takeout-Menu/blob/main/Assets/21-python-terminal-menu-image-1.png?raw=true)
+
 
 The following image shows a mock-up of the customer's receipt at the end of the program:
 
-IMAGE 2 GOES HERE
+![Itemized Receipt Output](https://github.com/alexis-menendez/Module-21-Python-Takeout-Menu/blob/main/Assets/21-python-terminal-receipt-image-2.png?raw=true)
+
 
 The following image shows a mock-up of the customer typing incorrect inputs for the menu options:
 
-IMAGE 3 GOES HERE
+![Handling Incorrect Menu Options](https://github.com/alexis-menendez/Module-21-Python-Takeout-Menu/blob/main/Assets/21-incorrect-menu-options-image-3.png?raw=true)
+
 
 ## Getting Started
 
